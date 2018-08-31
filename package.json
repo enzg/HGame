@@ -4,6 +4,7 @@
   "description": "",
   "main": "_.js",
   "scripts": {
+    "dev_hgame": "node ./_.js",
     "start": "node ./_.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
